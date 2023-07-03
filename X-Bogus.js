@@ -1,4 +1,4 @@
-var window = null;
+ Var  窗口 = 无价值的 ;
 
 function _0x5cd844(e) {
     var b = {
@@ -9,10 +9,10 @@ function _0x5cd844(e) {
 jsvmp = function(e, b, a) {
     function f(e, b, a) {
         return (f = function() {
-            if ("undefined" == typeof Reflect || !Reflect.construct || Reflect.construct.sham) return !1;
-            if ("function" == typeof Proxy) return !0;
-            try {
-                return Date.prototype.toString.call(Reflect.construct(Date, [], function() {})), !0
+             如果  ( "undefined" == 类型 Reflect || !Reflect. 构造 || Reflect. 构造 . 沙姆 )  返回的 ! 1 ;
+             如果  ( "function" == 类型 代理的 )  返回的 ! 0 ;
+             尝试  {
+                 返回的 日期。 原型 . 托罗 . 召唤 ( 思考一下。 构造 ( 日期, [ ] , 功能 ( )  { } ) ) , ! 0
             } catch (e) {
                 return !1
             }
@@ -561,4 +561,4 @@ function sign(e, b) {
 
 module.exports = {
     sign
-  };
+  };};
